@@ -55,22 +55,22 @@ Feel free to reach out:
 ## 🚀 Skills Progress
 
 ### JavaScript
-![JavaScript Progress](https://progress-bar.dev/90/?title=JavaScript)
+⭐⭐⭐⭐⭐ 90%
 
 ### React
-![React Progress](https://progress-bar.dev/90/?title=React)
+⭐⭐⭐⭐ 85%
 
 ### Node.js
-![Node.js Progress](https://progress-bar.dev/90/?title=Node.js)
+⭐⭐⭐⭐ 80%
 
 ### Java
-![Java Progress](https://progress-bar.dev/90/?title=Java)
+⭐⭐⭐⭐ 90%
 
 ### MySQL
-![MySQL Progress](https://progress-bar.dev/95/?title=MySQL)
+⭐⭐⭐ 75%
 
 ### Firebase
-![Firebase Progress](https://progress-bar.dev/70/?title=Firebase)
+⭐⭐⭐ 70%
 
 
 ---
