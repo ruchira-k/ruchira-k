@@ -1,4 +1,9 @@
-# 👋 Hi there, I'm Ruchira Kawshalya
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ruchira Kawshalya</h1>
+
 
 I'm a software developer with expertise in building powerful, scalable, and user-friendly applications across web, mobile, and desktop platforms.
 
@@ -7,6 +12,8 @@ I'm a software developer with expertise in building powerful, scalable, and user
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I'm+Ruchira+Kawshalya&hearts;++;Self-taught,;Full+Stack+Software+Engineer+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruchira-k&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 ## 🛠️ Skills & Technologies
 
