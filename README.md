@@ -18,28 +18,28 @@
 <h1>🛠️ Skills & Technologies</h1>
 
 ### 🔤 Languages
-- Backend
+<h2>Backend</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
   </a>
 </p>
 
-- Frontend
+<h2>Frontend</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,bootstrap,tailwind" />
   </a>
 </p>
 
-- Database
+<h2>Database</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
   </a>
 </p>
 
-- Frameworks & Libraries
+<h2>Frameworks & Libraries</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,arduino,angular,hibernate,laravel" />
@@ -47,15 +47,13 @@
 </p>
 
 
-- Tool
+<h2>Tool</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postman,gcp" />
   </a>
 </p>
 
-### 💻 IDEs
-- VS Code, IntelliJ IDEA, Android Studio, NetBeans
 
 <h2>💻 IDEs</h2>
 <p align="left">
