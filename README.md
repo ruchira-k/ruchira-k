@@ -3,59 +3,61 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ruchira Kawshalya</h1>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ruchira Kawshalya</h1>
 
 <h3 align="center">I'm a software developer with expertise in building powerful, scalable, and user-friendly applications across web, mobile, and desktop platforms.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I'm+Ruchira+Kawshalya&hearts;++;Self-taught,;Full+Stack+Software+Engineer+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+I'm+Ruchira+Kawshalya&hearts;++;Self-taught,;Full+Stack+Software+Engineer+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruchira-k&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruchira-k&label=Profile%20views&color=0e75b6&style=flat" alt="ruchira-k" />
+</p>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1>🛠️ Skills & Technologies</h1>
 
-### 🔤 Languages
-<h2>Backend</h2>
+### 🔤 Languages & Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs" />
   </a>
 </p>
 
-<h2>Frontend</h2>
+### 🌐 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,bootstrap,tailwind" />
   </a>
 </p>
 
-<h2>Database</h2>
+### 🧰 Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,angular,hibernate" />
+  </a>
+</p>
+
+### 🗃️ Databases
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
   </a>
 </p>
 
-<h2>Frameworks & Libraries</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,arduino,angular,hibernate,laravel" />
-  </a>
-</p>
-
-
-<h2>Tool</h2>
+### 🔧 Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postman,gcp" />
   </a>
 </p>
 
-
-<h2>💻 IDEs</h2>
+### 💻 IDEs
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,intellij,androidstudio,netbeans,arduino" />
@@ -65,22 +67,37 @@
 ---
 
 ## 🌱 Currently Learning
-- Vue.js, Laravel, Spring Boot, MongoDB, Firebase
+- Vue.js  
+- Laravel  
+- Spring Boot  
+- MongoDB  
+- Firebase
 
 ---
 
 ## 🤝 Collaboration
 I'm currently working as a **freelancer** and available for new opportunities.  
-I'm also looking to collaborate with other software developers and contribute to exciting open-source projects.
+I'm also looking to collaborate with other developers and contribute to exciting open-source projects.
 
 ---
 
 ## 📫 Contact Me
 
-Feel free to reach out:
+<p align="left">
+  <a href="mailto:rkawshalya8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/ruchira-k">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ruchira-kawshalya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ruchira_kawshalya/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
-- **📧 Email:** rkawshalya8@gmail.com  
-- **🌐 LinkedIn:** https://www.linkedin.com/in/ruchira-kawshalya
 
 ---
 
@@ -93,35 +110,25 @@ Feel free to reach out:
 
 ## 🚀 Skills Progress
 
-### JavaScript
-⭐⭐⭐⭐⭐ 90%
-
-### React
-⭐⭐⭐⭐ 85%
-
-### Node.js
-⭐⭐⭐⭐ 80%
-
-### Java
-⭐⭐⭐⭐ 90%
-
-### MySQL
-⭐⭐⭐ 75%
-
-### Firebase
-⭐⭐⭐ 70%
-
-<br>
-<br>
-
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=ruchira-k&theme=dark&hide_border=false" width = 500>
-
-<img src = "https://github-readme-stats.vercel.app/api?username=ruchira-k&show_icons=true&theme=dark" width = 500>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchira-k&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/ruchira-k)
+| Technology   | Proficiency |
+|--------------|-------------|
+| JavaScript   | ⭐⭐⭐⭐⭐ 90%  |
+| React        | ⭐⭐⭐⭐ 85%   |
+| Node.js      | ⭐⭐⭐⭐ 80%   |
+| Java         | ⭐⭐⭐⭐ 90%   |
+| MySQL        | ⭐⭐⭐ 75%    |
+| Firebase     | ⭐⭐⭐ 70%    |
 
 ---
 
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ruchira-k&theme=dark&hide_border=false" width="500">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruchira-k&show_icons=true&theme=dark" width="500">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchira-k&theme=dark)](https://github.com/ruchira-k)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FF0000)](https://github.com/ruchira-k)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
