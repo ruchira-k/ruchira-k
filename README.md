@@ -129,6 +129,10 @@ I'm also looking to collaborate with other developers and contribute to exciting
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchira-k&theme=dark)](https://github.com/ruchira-k)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FF0000)](https://github.com/ruchira-k)
+<p align="center">
+  <a href="https://github.com/ruchira-k">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FF0000" />
+  </a>
+</p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
